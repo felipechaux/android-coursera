@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal">44dp</dimen>
+
+    <dimen name="activity_title_top">150dp</dimen>
+    <dimen name="activity_button_accept">150dp</dimen>
+    <dimen name="activity_land_padding_background">100dp</dimen>
+    <dimen name="activity_land_padding_button_accept">58dp</dimen>
+</resources>

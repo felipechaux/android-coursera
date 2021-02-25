@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">LanguagesScreensSupportApp</string>
+    <string name="app_title_welcome">Bienvenido</string>
+    <string name="button_accept">Entrar</string>
+</resources>

@@ -1,0 +1,36 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imgBackground"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@null"
+        android:paddingEnd="@dimen/activity_horizontal"
+        android:paddingRight="@dimen/activity_horizontal"
+        android:scaleType="centerCrop"
+        android:src="@drawable/background_app"
+        tools:ignore="RtlSymmetry" />
+
+    <TextView
+        android:id="@+id/txtTitle"
+        style="@style/Theme.LanguagesScreensSupportApp.Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_title_top"
+        android:gravity="center"
+        android:text="@string/app_title_welcome" />
+
+    <Button
+        android:id="@+id/btnAccept"
+        style="@style/Theme.LanguagesScreensSupportApp.ButtonAccept"
+        android:layout_width="@dimen/activity_button_accept"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/activity_horizontal"
+        android:gravity="center"
+        android:text="@string/button_accept" />
+
+</FrameLayout>
