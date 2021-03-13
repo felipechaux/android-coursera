@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ConfirmInfoActivity">
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/txtTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/form_margin"
+        android:layout_marginTop="@dimen/text_name_top"
+        android:gravity="center"
+        android:text="@string/info_title"
+        android:textStyle="italic"
+        android:textSize="@dimen/title_size"
+        tools:ignore="RtlCompat" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/txtNameValue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/form_margin"
+        android:layout_marginTop="@dimen/text_name_top"
+        android:text="Abel felipe chaux"
+        android:textStyle="italic"
+        tools:ignore="RtlCompat" />
+
+    <LinearLayout
+        android:id="@+id/llBirthDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="@dimen/form_margin"
+        android:layout_marginEnd="@dimen/form_margin"
+        android:orientation="horizontal">
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/txtBirthDateLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_birth_date" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/txtBirthDateValue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/text_margin_left"
+            tools:ignore="RtlCompat" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llPhone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="@dimen/form_margin"
+        android:layout_marginEnd="@dimen/form_margin"
+        android:orientation="horizontal">
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/txtPhoneLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_phone" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/txtPhoneValue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/text_margin_left"
+            tools:ignore="RtlCompat" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="@dimen/form_margin"
+        android:layout_marginEnd="@dimen/form_margin"
+        android:orientation="horizontal">
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/txtEmailLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:hint="@string/hint_email" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/txtEmailValue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/text_margin_left"
+            tools:ignore="RtlCompat" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="@dimen/form_margin"
+        android:layout_marginEnd="@dimen/form_margin"
+        android:orientation="horizontal">
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/txtDescriptionLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_description_contact" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/txtDescriptionValue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/text_margin_left"
+            tools:ignore="RtlCompat" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/buttonEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/form_margin"
+        android:layout_marginTop="@dimen/button_next_top"
+        android:layout_marginEnd="@dimen/form_margin"
+        android:text="@string/button_edit" />
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="form_margin">40dp</dimen>
+    <dimen name="button_next_top">50dp</dimen>
+    <dimen name="text_name_top">50dp</dimen>
+    <dimen name="text_margin_left">20dp</dimen>
+    <dimen name="text_description_top">25dp</dimen>
+    <dimen name="title_size">30sp</dimen>
+
+</resources>

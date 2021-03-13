@@ -1,0 +1,6 @@
+
+V	java:S110	"<This class has 9 parents which is greater than 5 authorized.(è‡ÑÏúÿÿÿÿ
+‡
+java:S1450"jRemove the "textDescriptionContactValue" field and declare it as a local variable in the relevant methods.(Òßù•8§À©É‚/
+\
+java:S1068"?Remove this unused "textDescriptionContactValue" private field.(Òßù•8§À©É‚/

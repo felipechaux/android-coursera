@@ -1,0 +1,12 @@
+
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±8«£‹ ‚/
+V
+java:S1659"4Declare "textDescriptionContact" on a separate line.(øš—ûÿÿÿÿ8†¤Ç‚/
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—¦‹ã8™Í Ç‚/
+M
+java:S1659"+Declare "textBirthDate" on a separate line.(øš—ûÿÿÿÿ8èñ£Ç‚/
+I
+java:S1659"'Declare "textPhone" on a separate line.(øš—ûÿÿÿÿ8èñ£Ç‚/
+I
+java:S1659"'Declare "textEmail" on a separate line.(øš—ûÿÿÿÿ8èñ£Ç‚/

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ContactFormApp</string>
+    <string name="hint_full_name">Nombre completo</string>
+    <string name="hint_birth_date">Fecha de nacimiento</string>
+    <string name="hint_phone">Telefono</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_description_contact">Descripcion Contacto</string>
+    <string name="button_next">Siguiente</string>
+    <string name="button_edit">Editar datos</string>
+    <string name="info_title">Confirmar Datos</string>
+    <string name="intent_user">Usuario</string>
+    <string name="info_incomplete">Debes llenar todos los datos :)</string>
+
+</resources>
