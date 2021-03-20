@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Petagram</string>
-    <string name="switch_name">Active</string>
+    <string name="app_name">PetagramApp</string>
+    <string name="app_acerca_de">Acerca de</string>
+
 </resources>
