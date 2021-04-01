@@ -1,0 +1,20 @@
+
+`
+java:S1128">Remove this unused import 'androidx.appcompat.widget.Toolbar'.(ÔËûÝùÿÿÿÿ8³„Ä‰ˆ/
+O
+java:S1128"2Remove this unused import 'android.view.MenuItem'.(Ð¬Ó‘8Ñ…¬‰ˆ/
+S
+java:S1128"6Remove this unused import 'android.view.MenuInflater'.(¥ñ´Ò8Ñ…¬‰ˆ/
+b
+java:S1128"ERemove this unused import 'androidx.appcompat.app.AppCompatActivity'.(€¶£î8·´®‰ˆ/
+^	java:S110"=This class has 10 parents which is greater than 5 authorized.(ÿ¡ÓÁøÿÿÿÿ8³„Ä‰ˆ/
+K
+java:S1128".Remove this unused import 'android.view.Menu'.(£¯Ò…8Ñ…¬‰ˆ/
+O
+java:S1128"3Remove this unused import 'android.content.Intent'.(³ð‹G8³„Ä‰ˆ/
+Y
+java:S1128	"7Remove this unused import 'android.widget.ImageButton'.(‚ÏÉõÿÿÿÿÿ8³„Ä‰ˆ/
+U
+java:S1128"8Remove this unused import 'androidx.annotation.NonNull'.(ˆÛúÜ8Ñ…¬‰ˆ/
+^
+java:S1128"<Remove this unused import 'android.annotation.SuppressLint'.(ÕƒóÏûÿÿÿÿ8Ñ…¬‰ˆ/

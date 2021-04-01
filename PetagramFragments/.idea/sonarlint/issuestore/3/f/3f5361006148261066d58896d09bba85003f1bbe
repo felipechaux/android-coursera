@@ -1,0 +1,25 @@
+
+l
+java:S1874C"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¤‹Å¬úÿÿÿÿ8¼ ˆˆ/
+W
+java:S1161*":Add the "@Override" annotation above this method signature(‡èú×8Ş‘ˆˆ/
+X
+java:S1874"6Remove this use of "ProgressDialog"; it is deprecated.(·á…Çùÿÿÿÿ8Ó£ñ‡ˆ/
+S
+java:S1874"1Remove this use of "AsyncTask"; it is deprecated.(åÜÑçúÿÿÿÿ8óÀğ‡ˆ/
+x
+java:S1450"VRemove the "session" field and declare it as a local variable in the relevant methods.(ÔÂòáÿÿÿÿÿ8Ş‘ˆˆ/
+P
+java:S1874>"4Remove this use of "onPreExecute"; it is deprecated.(”•P8óÀğ‡ˆ/
+S
+java:S1874?"6Remove this use of "ProgressDialog"; it is deprecated.(Á’’ö8Ó£ñ‡ˆ/
+Q
+java:S3740"/Provide the parametrized type for this generic.(åÜÑçúÿÿÿÿ8óÀğ‡ˆ/
+I
+java:S1874?",Remove this use of "show"; it is deprecated.(Á’’ö8Ó£ñ‡ˆ/
+g
+java:S1874="JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ËĞƒ8óÀğ‡ˆ/
+”
+java:S5527&"wEnable server hostname verification on this SSL/TLS connection, by setting "mail.smtp.ssl.checkserveridentity" to true.(’ß‡ƒ8Ş‘ˆˆ/
+W
+java:S1874D"5Remove this use of "onPostExecute"; it is deprecated.(‡•…öşÿÿÿÿ8¼ ˆˆ/
