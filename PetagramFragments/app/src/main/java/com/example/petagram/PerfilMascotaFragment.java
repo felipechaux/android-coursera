@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.TextView;
 
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.GridLayoutManager;
@@ -24,6 +25,7 @@ public class PerfilMascotaFragment extends Fragment {
     private ImageView imagePerfil;
     private RecyclerView recyclerPerfil;
     private ArrayList<Mascota> mascotaPerfil;
+    private TextView textViewNombre;
 
     @Override
     public View onCreateView(
@@ -33,9 +35,13 @@ public class PerfilMascotaFragment extends Fragment {
         View view =inflater.inflate(R.layout.fragment_perfil_mascota, container, false);
         imagePerfil = view.findViewById(R.id.imagePerfilMascota);
 
+        textViewNombre=view.findViewById(R.id.textNombreMascota);
+        textViewNombre.setText(getString(R.string.name_mascota));
+
         recyclerPerfil=view.findViewById(R.id.rvPerfilMascota);
         GridLayoutManager llm = new GridLayoutManager(getActivity(),3);
         recyclerPerfil.setLayoutManager(llm);
+
 
         addFab(view);
         loadImageBio();

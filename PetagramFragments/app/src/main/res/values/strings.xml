@@ -14,4 +14,5 @@
     <string name="loader_mail_titulo">Enviando mensaje</string>
     <string name="loader_mail_descripcion">Cargando...</string>
     <string name="mail_enviado">Mail enviado :)</string>
+    <string name="name_mascota">Fredo</string>
 </resources>
