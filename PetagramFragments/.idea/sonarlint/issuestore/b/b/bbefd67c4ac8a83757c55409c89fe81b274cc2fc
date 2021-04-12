@@ -1,0 +1,9 @@
+
+N
+java:S16029",Remove useless curly braces around statement(ÆÖ¨¹ûÿÿÿÿ8ŽÉ’¬Š/
+Š
+java:S3252:"hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(Ìê¾×ÿÿÿÿÿ8ŽÉ’¬Š/
+
+java:S1450"]Remove the "textViewNombre" field and declare it as a local variable in the relevant methods.(“‡ÅÇøÿÿÿÿ8«àŸ¬Š/
+h
+java:S1192D"FDefine a constant instead of duplicating this literal "Fredo" 6 times.(ÛÇ×œüÿÿÿÿ8ŽÉ’¬Š/
